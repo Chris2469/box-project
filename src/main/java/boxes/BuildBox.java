@@ -7,6 +7,7 @@ public class BuildBox {
         Box box = new Box(3, 5, 5); 
         
         int volume = box.getVolume();
+        
         System.out.println("Volume: " + volume);
 
     }
